@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movies GURU</string>
+    <string name="drawer_subtitle">MTN / ITVarsity Assessment Module 2</string>
+    <string name="all_movies">All Movies</string>
+    <string name="fantasy">Fantasy</string>
+    <string name="sci_fi">Science Fiction</string>
+    <string name="romance">Romance</string>
+
+    <string name="open_drawer">Open Navigation Drawer</string>
+    <string name="close_drawer">Close Navigation Drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
